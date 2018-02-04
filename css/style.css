@@ -1,0 +1,25 @@
+ *{
+ 	margin: 0 auto;
+ 	padding: 0;
+ }body {
+	background: #000;
+	overflow: hidden;
+}
+
+canvas {
+	cursor: pointer;
+	display: block;
+}
+ .msg{
+ 	width: 100%;
+ 	position: absolute;
+ 	bottom: 0;
+ 	color: white;
+ 	text-align: center;
+ 	font-family: 'Square721 BT','Montserrat', sans-serif;
+ 	font-size: 20px;
+ }
+ .msg>a{
+ 	text-decoration: none; 
+ }	
+ 	 
