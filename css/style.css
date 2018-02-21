@@ -1,15 +1,6 @@
- *{
- 	margin: 0 auto;
- 	padding: 0;
- }body {
-	background: #000;
-	overflow: hidden;
-}
-
-canvas {
-	cursor: pointer;
-	display: block;
-}
+*{margin: 0 auto;padding: 0;}
+body {background: #000;overflow: hidden;}
+canvas {cursor: pointer;display: block;}
  .msg{
  	width: 100%;
  	position: absolute;
